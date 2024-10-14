@@ -1,4 +1,3 @@
-@ -0,0 +1,44 @@
 import os
 import mysql.connector
 from PyPDF2 import PdfReader
