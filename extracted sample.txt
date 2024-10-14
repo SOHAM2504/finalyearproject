@@ -1,0 +1,60 @@
+@ -0,0 +1,59 @@
+AKASH BABASAHEB SABALE
+B.E. - Information Technology
+Ph: +91-9579513109
+Email: akashsabale.nbnstic.it@gmail.com
+Pune, Maharashtra, India - 411041
+LinkedIn: https://www.linkedin.com/in/akash-sabale-
+4a6227277/  
+Java  Oop  Dbms  Linux  Git Vscode  CSS  HTML  Dsa  API Firebase  JavaFX
+BRIEF SUMMARY
+I am passionate about exploring the ever-evolving world of technology and its applications With a strong foundation in IT fundamentals
+and a drive to learn and grow, I am eager to contribute my skills and knowledge to the IT industry.
+KEY EXPERTISE
+EDUCATION
+2021  -  2025 NBN Sinhgad School Of Engineering, Pune
+B.E. - Information Technology | CGPA: 8.31 / 10
+2021 Residential Junior College, Ahmednagar, Ahmednagar
+12th | Percentage: 88.83 / 100
+2019 Anand Madhyamik Vidyalay Gulmohor Road Ahmednagar, Pune
+10th | MSBSHSE  | Percentage: 90 / 100
+PROJECTS
+24 Jun, 2024  -  13 Jul, 2024 Abhyasika
+Team Size:  4
+Key Skills:  OOPs  Java  JavaFX  API  Firebase
+Project Link:   https://github.com/Akash-s26
+A Abhyasika project is based on library management domain .It is private learning tool for students like MPSC/UPSC And for Any
+competative exam students. It has features like Seat booking,Membership, News Section,User and Admin Dashbord,Reviews.
+26 Dec, 2023  -  20 Jan, 2024 Chat App Using Javafx and putty
+Key Skills:  Java  JavaFX  OOPs  Multithreading
+Project Link:   https://github.com/Akash-s26
+This program implements a two-way network chat using JavaFX. It opens a window that can be used for a two-way network chat. The
+window can "listen" for a connection request on a port that is specified by the user. It can also request a connection to another ChatApp
+window on a
+specified computer and port. The window has an input box where the user can enter messages to be sent over the connection. A
+connection can be closed by clicking a button in the window or by closing the window.
+SEMINARS / TRAININGS / WORKSHOPS
+06 Dec, 2023  -  26 Jan, 2024 Data Analytics Institute Name:  Godrej
+Key Skills:  Data Science  MySQL  powerbi
+The Data Analytics course offered by Godrej is a comprehensive program designed to equip participants with essential skills and
+knowledge in data analysis and visualization. Spanning over one and a half months, this program delves into various aspects of data
+analytics, focusing on techniques for extracting insights from data to drive informed decision-making.
+EXTRA CURRICULAR ACTIVITIES
+Techtonic co-ordinator
+Naac co-ordinatorGender:  Male
+Marital Status:  Single
+Current Address:  Aditri heights near polyhub foodcourt, Pune,
+Maharashtra, India - 411041Date of Birth:  26 May, 2003
+Known Languages:  Marathi Hindi English
+Permanent Address:  Arth plaza flat no.102 near bharat gas
+godown pipeline road savedi Ahmednagar, Pune, Maharashtra,
+India - 414003
+Phone Number:  +91-9579513109
+Email:  akashsabale.nbnstic.it@gmail.comPERSONAL INTERESTS / HOBBIES
+Cricket
+Music
+Video Editing
+Cooking
+WEB LINKS
+Github - https://github.com/Akash-s26
+PERSONAL DETAILS
